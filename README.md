@@ -1,0 +1,5 @@
+## Instalación
+-1. TENER INSTALADO EN TU COMPUTADOR Python
+-2. EJECUTAR ESTE COMANDO DENTRO DEL PROYECTO: pip install -r requirements.txt
+-3. EJECUTA PARA LEVANTAR EL PROYECTO: py app.py
+
